@@ -1,0 +1,86 @@
+repo_name: rlfagan/android-pdfview
+report_id: ca358f134389f80aceb537fb115a43ee
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-20T23:03:27+00:00'
+requested_by: JoanZapata
+provider: github
+branch: master
+detected_tools_count: 6
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  version: '1.6'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/rlfagan/android-pdfview/blob/master/pom.xml
+  detection_source: Repo Metadata
+  last_updated_by: Joan Zapata
+  last_updated_on: 2012-11-21 11:31:31.000000000 Z
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/rlfagan/android-pdfview/blob/master/android-pdfview-sample/pom.xml
+  detection_source: android-pdfview-sample/pom.xml
+  last_updated_by: Joan Zapata
+  last_updated_on: 2013-05-29 21:36:54.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rlfagan/android-pdfview
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/rlfagan/android-pdfview/blob/master/android-pdfview-sample/build.gradle
+  detection_source: android-pdfview-sample/build.gradle
+  last_updated_by: Tim Kist
+  last_updated_on: 2014-05-07 09:18:20.000000000 Z
+- name: com.actionbarsherlock:actionbarsherlock
+  description: Action bar implementation which uses the native action bar on Android
+    4.0+ and a custom implementation on pre-4.0 through a single API and theme
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rlfagan/android-pdfview/blob/master/android-pdfview-sample/pom.xml
+  detection_source: android-pdfview-sample/pom.xml
+  last_updated_by: Joan Zapata
+  last_updated_on: 2013-05-30 22:55:31.000000000 Z
+- name: com.google.android:android
+  description: A library jar that provides APIs for Applications written for the Google
+    Android Platform
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rlfagan/android-pdfview/blob/master/android-pdfview-sample/pom.xml
+  detection_source: android-pdfview-sample/pom.xml
+  last_updated_by: Joan Zapata
+  last_updated_on: 2013-05-30 20:47:00.000000000 Z
