@@ -4,10 +4,14 @@
 ----------------------
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--pdfview-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1332)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fandroid-pdfview.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fandroid-pdfview?ref=badge_shield)
 
 [![Screenshot of the sample app](https://raw.github.com/JoanZapata/android-pdfview/master/device.png)](https://play.google.com/store/apps/details?id=com.joanzapata.pdfview.sample)
 
 **Android PDFView** is a library which provides a fast PDFView component for Android, with ```animations```, ```gestures```, and ```zoom```. It's based on [VuDroid](https://code.google.com/p/vudroid/) for decoding the PDF file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fandroid-pdfview.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fandroid-pdfview?ref=badge_large)
 
 # Get it
 
